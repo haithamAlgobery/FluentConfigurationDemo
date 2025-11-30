@@ -1,0 +1,6 @@
+@FluentConfiguration_HostAddress = http://localhost:5282
+
+GET {{FluentConfiguration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

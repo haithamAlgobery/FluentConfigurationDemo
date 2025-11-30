@@ -1,0 +1,31 @@
+## Ignore build folders
+bin/
+obj/
+
+## Visual Studio files
+.vs/
+*.user
+*.suo
+
+## Logs
+*.log
+
+## NuGet
+*.nupkg
+packages/
+
+## Node Modules (if exists)
+node_modules/
+
+## Database files
+*.mdf
+*.ldf
+
+## Publish output
+/wwwroot/lib
+/publish
+
+## App secrets
+appsettings.Development.json
+appsettings.*.local.json
+*.secret.json
