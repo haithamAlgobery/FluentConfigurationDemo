@@ -17,7 +17,5 @@ This project demonstrates how to build **maintainable, scalable, and readable ar
 - Seed/test data endpoints for quick testing
 - Fully documented and maintainable code
 
----
 
-## 🏗 Project Structure
 
